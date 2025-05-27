@@ -1,0 +1,8 @@
+C:\Users\shuki\source\repos\27_05\27_05\bin\Debug\27_05.exe.config
+C:\Users\shuki\source\repos\27_05\27_05\bin\Debug\27_05.exe
+C:\Users\shuki\source\repos\27_05\27_05\bin\Debug\27_05.pdb
+C:\Users\shuki\source\repos\27_05\27_05\obj\Debug\27_05.csproj.AssemblyReference.cache
+C:\Users\shuki\source\repos\27_05\27_05\obj\Debug\27_05.csproj.CoreCompileInputs.cache
+C:\Users\shuki\source\repos\27_05\27_05\obj\Debug\27_05.exe
+C:\Users\shuki\source\repos\27_05\27_05\obj\Debug\27_05.pdb
+C:\Users\shuki\source\repos\27_05\27_05\obj\Debug\27_05.exe.config
