@@ -11,16 +11,17 @@ namespace _27_05
     {
         static void Main(string[] args)
         {
-            Commando commando = new Commando("shuki","gimal","hide");
-            AirCommando airCom = new AirCommando("dan", "alfa", "walk");
-            SeaCommando seaCom = new SeaCommando("ahron", "zigzag", "diving");
+            Game game = new Game();
+            game.Start();
 
-            Commando[] commandos = new Commando[] { commando,airCom, seaCom };
-            foreach (Commando com in commandos) 
+            if (args.Length == 0)
             {
-                com.Attacking();
+                Console.WriteLine("You must pass the API key as a command - line argument.");
+                return;
             }
+            string apiKey = args[0]; // Read the first argument (your API key)
+                                     // use the key as a part of the httpClient
         }
-        
+
     }
 }
